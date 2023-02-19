@@ -37,7 +37,7 @@
   "dependencies": {
     "@uniswap/default-token-list": "^1.5.0",
     "big.js": "^6.0.1",
-    "debug": "^4.1.1",
+    "debug": "^4.3.4",
     "erc-20-abi": "^1.0.0",
     "lodash": "^4.17.20",
     "p-props": "^4.0.0",
