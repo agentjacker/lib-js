@@ -43,7 +43,7 @@
     "p-props": "^4.0.0",
     "p-series": "^2.1.0",
     "p-tap": "^3.1.0",
-    "patch-package": "^6.2.2",
+    "patch-package": "^7.0.1",
     "vesper-metadata": "^2.7.2",
     "web3-parse-receipt-events": "^1.0.0"
   },
@@ -62,7 +62,7 @@
     "lint-staged": "^10.5.4",
     "mocha": "^8.3.2",
     "nyc": "^15.1.0",
-    "patch-package": "^6.2.2",
+    "patch-package": "^7.0.1",
     "prettier": "^2.2.1",
     "web3": "^1.2.11",
     "web3-parse-receipt-events": "^1.0.0"
